@@ -1,2 +1,36 @@
-# 3d-printed-leverless-controller
-3D printed leverless arcade controller for Street Fighter 6
+# 3D Printed Leverless Arcade Controller
+
+3DCAD（Autodesk Fusion）で設計し、3Dプリンターで筐体を導入・出力した自作レバーレスコントローラーです。
+格闘ゲーム（FGC）向け、主にSF6でプレイするときに使用することを想定し作成しました。
+メンテナンス性を考え細かくパーツを作りネジで止められるようにしています。
+
+## 📷 完成写真 / Preview
+
+<img width="1257" height="767" alt="Preview" src="https://github.com/user-attachments/assets/1d947c14-eaf6-4c75-8e39-efe5d1ef5b34" />![実物写真](Images/photo_main.jpg)
+*※ここに実際のプリント・組み立て後の写真を配置*
+
+---
+
+## 💡 設計のこだわり・技術的工夫
+
+* **3Dプリント性能への配慮**
+  * サポート材の消費量を抑え、表面仕上がりを綺麗にするため、ケースを10個のパーツに分割設計。
+* **メンテナンス性の確保**
+  * ボタン交換や配線調整が容易に行えるよう、天板を磁石で止められるよう厚さを調整意図しない状況では取れないように設計。
+  * パーツを細かく分けて設計したため一部部品が壊れてもパーツ交換で完結する設計。
+  
+---
+
+## 🛠️ 使用ツール・環境
+
+* **3DCAD**: Autodesk Fusion
+* **3D Printer**: Creator 3 Pro
+* **Slicer**: FlashPrint 5
+
+## 📁 ファイル構成
+
+```text
+├── CAD/       # Fusion 360データ (.f3d) および中間フォーマット (.step)
+├── STL/       # 3Dプリント用分割済みデータ (.stl)
+└── Images/    # 掲載用画像データ
+
