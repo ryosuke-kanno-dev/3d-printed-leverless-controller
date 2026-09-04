@@ -6,8 +6,7 @@
 
 ## 📷 完成写真 / Preview
 
-<img width="1257" height="767" alt="Preview" src="https://github.com/user-attachments/assets/1d947c14-eaf6-4c75-8e39-efe5d1ef5b34" />![実物写真](Images/photo_main.jpg)
-*※ここに実際のプリント・組み立て後の写真を配置*
+<img width="1257" height="767" alt="Preview" src="https://github.com/user-attachments/assets/1d947c14-eaf6-4c75-8e39-efe5d1ef5b34" />
 
 ---
 
